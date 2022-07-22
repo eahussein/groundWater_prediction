@@ -14,6 +14,6 @@ Copyright 2020 Eslam A. Hussein, Christopher Thron, Mehrdad Ghaziasgar, Antoine 
 
  Eslam A. Hussein, Christopher Thron, Mehrdad Ghaziasgar, Antoine Bagula and Mattia Vaccari "Groundwater Prediction Using Machine Learning Tools". 2020
 
-   If you have any questions for this code, please contact Eslam A. Hussein at eslamhuss34gmail.com    
+   If you have any questions for this code, please contact Eslam A. Hussein at eaa.huss@gmail.com    
    This code is wriiten and tested on python Jupyter notebook.
    Date: 19/10/2020
